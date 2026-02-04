@@ -5,7 +5,7 @@
   "description": "Bootstrap Slider component for React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brownieboy/react-bootstrap-slider.git"
+    "url": "https://github.com/goldenpine/react-bootstrap-slider.git"
   },
   "keywords": [
     "react-component",
@@ -15,7 +15,7 @@
     "bootstrap"
   ],
   "bugs": {
-    "url": "https://github.com/brownieboy/react-bootstrap-slider/issues"
+    "url": "https://github.com/goldenpine/react-bootstrap-slider/issues"
   },
   "author": "Michael Brown <brownieboy@gmail.com>",
   "license": "MIT",
