@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-slider",
-  "version": "3.0.0",
+  "name": "@goldenpine/react-bootstrap-slider",
+  "version": "3.0.1",
   "main": "dist/react-bootstrap-slider.js",
   "description": "Bootstrap Slider component for React",
   "repository": {
@@ -31,8 +31,8 @@
     "@babel/register": "^7.10.1",
     "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
     "babel-preset-es3": "^1.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
   },
   "dependencies": {
     "bootstrap-slider": "^11.0.2"
@@ -40,8 +40,8 @@
   "peerDependencies": {
     "bootstrap": "^4.5.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
   },
   "scripts": {
     "build": "NODE_ENV=production node_modules/.bin/babel ./src/react-bootstrap-slider.js -o ./dist/react-bootstrap-slider.js"
